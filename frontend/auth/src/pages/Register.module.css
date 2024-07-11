@@ -1,0 +1,69 @@
+.register {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 15px 0 rgba(0,0,0,.3);
+}
+
+.register h2 {
+    text-align: center;
+    margin-bottom: 1em;
+    color: #639de6;
+}
+
+.register form {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: .75em;
+}
+
+.register form label {
+    display: flex;
+    align-items: center;
+}
+
+.register form label .buttonEye {
+    border: none;
+    outline: none;
+    background-color: transparent;
+    font-size: 1em;
+    color: #639de6;
+    cursor: pointer;
+}
+
+.register form input {
+    padding: 1em 1em .25em 1em;
+    font-size: 1em;
+    outline: none;
+    border: none;
+    border-bottom: 1px solid #ccc;
+}
+
+.register form .submitButton {
+    outline: none;
+    border: none;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 0 0 15px rgba(0,0,0,.3);
+    color: #639de6;
+    font-weight: bold;
+    margin: 1em auto auto auto;
+    padding: 10px;
+    font-size: 1em;
+    width: 50%;
+    cursor: pointer;
+    transition: .5s;
+}
+
+.register form .submitButton:hover {
+    background-color: #639de6;
+    color: #fff;
+}
+
+.error {
+    margin-top: 1em;
+    color: red;
+    text-align: center;
+}

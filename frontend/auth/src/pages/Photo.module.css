@@ -1,0 +1,78 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto 50px auto;
+    padding: 1em;
+    display: flex;
+    gap: 1em;
+
+    border: 1px solid #ccc;
+    box-shadow: 0 0 15px 0 rgba(0,0,0,.3);
+}
+
+.leftSide img {
+    max-width: 500px;
+    max-height: 500px;
+}
+
+.rightSide {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.rightSide .userPhotoAndUserName {
+    display: flex;
+    align-items: center;
+    gap: 1em;
+    margin-bottom: 1em;
+}
+
+.rightSide .userPhotoAndUserName img {
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+}
+
+.rightSide .contentPost {
+    text-align: center;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 1em;
+    margin-bottom: 1em;
+}
+
+.rightSide .likesAndComments {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 1em;
+    font-weight: bold;
+    font-size: 10pt;
+    font-style: italic;
+}
+
+.comments {
+    max-height: 200px;
+    overflow-y: scroll;
+}
+
+.comments .commentContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: .5em;
+}
+
+.comments .commentContainer .nameAndTrashCanButton {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.comments .commentContainer .nameAndTrashCanButton form button {
+    background-color: transparent;
+    border: none;
+    outline: none;
+    color: red;
+    cursor: pointer;
+    margin: 0 1em;
+}

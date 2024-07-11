@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 7306,
+      "name": "Clara",
+      "email": "clara@hotmail.com",
+      "password": "$2b$10$yLWyxhwAsj.Q/H6/WQ8hHO1Mw0SylgCCgc0nPqQgWD02xhRWOVB7S",
+      "profilePic": "https://images.unsplash.com/photo-1592194996308-7b43878e84a6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fENhdHxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": 11270,
+      "name": "Jefferson",
+      "email": "jeff@hotmail.com",
+      "password": "$2b$10$sewJqx1U3p0J3yRsKgV5NOIsOcwnGnTQWJSZVk6.Grl4d2Dt7CMJm",
+      "profilePic": "https://images.unsplash.com/photo-1579264688258-c0ebf8c7942a?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+  ]
+}

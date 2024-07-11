@@ -1,0 +1,72 @@
+.perfil {
+    width: 80%;
+    margin: 0 auto;
+    padding: 1em;
+    box-shadow: 0 0 15px 0 rgba(0,0,0,.3);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.profilePic {
+    width: 150px;
+    height: 150px;
+    box-shadow: 2px 2px 2px 2px #639de6;
+    border-radius: 50%;
+    margin-bottom: 1em;
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.perfil form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1.5em;
+    width: 30%;
+}
+
+.perfil form label {
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    padding: 5px;
+}
+
+.perfil form label p {
+    font-weight: bold;
+    text-align: center;
+}
+
+.perfil form label input {
+    outline: none;
+    border: none;
+    background-color: transparent;
+    width: 100%;
+    font-size: 1.2em;
+    text-align: center;
+}
+
+.perfil form button {
+    outline: none;
+    border: none;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 0 0 15px rgba(0,0,0,.3);
+    color: #639de6;
+    font-weight: bold;
+    margin: auto auto auto auto;
+    padding: 10px;
+    font-size: 1em;
+    width: 50%;
+    cursor: pointer;
+    transition: .5s;
+}
+
+.perfil form button:hover {
+    background-color: #639de6;
+    color: #fff;
+}
