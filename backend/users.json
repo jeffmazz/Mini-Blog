@@ -13,6 +13,19 @@
       "email": "jeff@hotmail.com",
       "password": "$2b$10$sewJqx1U3p0J3yRsKgV5NOIsOcwnGnTQWJSZVk6.Grl4d2Dt7CMJm",
       "profilePic": "https://images.unsplash.com/photo-1579264688258-c0ebf8c7942a?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 85616,
+      "name": "Jose",
+      "email": "joser@hotmail.com",
+      "password": "$2b$10$0a87YXB7uIEBULbThex6quFf7Lo2HWzHabRn98KiBRDb6wG5l1..G"
+    },
+    {
+      "id": 24266,
+      "name": "jose",
+      "email": "joseR@hotmail.com",
+      "password": "$2b$10$iVJcjsTMmWMU3mhtBhwmAeUe81ymybpwAexyKhPZlTLz6GL1I/SdO",
+      "profilePic": "https://images.unsplash.com/photo-1628126235206-5260b9ea6441?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     }
   ]
 }
