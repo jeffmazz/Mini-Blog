@@ -14,22 +14,22 @@ O mini-blog também possui um sistema de autenticação usando login e senha que
 
 <details>
   <summary> Home </summary>
-  <img src="images/Home.png" alt="Página Home após login"/>
+  <img src="images/Home.png" alt="Página Home após login" width="600" height="300"/>
 </details>
 
 <details>
   <summary> Like </summary>
-  <img src="images/Like.png" alt="Realizando like em um post"/>
+  <img src="images/Like.png" alt="Realizando like em um post" width="600" height="300"/>
 </details>
 
 <details>
   <summary> Comment </summary>
-  <img src="images/Comment.png" alt="Comentando em um post"/>
+  <img src="images/Comment.png" alt="Comentando em um post" width="600" height="300"/>
 </details>
 
 <details>
   <summary> Opened Post </summary>
-  <img src="images/OpenedImage.png" alt="Clicando em um post"/>
+  <img src="images/OpenedImage.png" alt="Clicando em um post" width="600" height="300"/>
 </details>
 
 ## Tecnologias utilizadas
